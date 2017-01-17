@@ -1,0 +1,51 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-xhdpi-v4/kost2.jpg
+SHA1-Digest: bisGls/aj+qFTQPuesxs3DzI9xk=
+
+Name: res/layout/kost1.xml
+SHA1-Digest: YxlclwrkqSs8HdtGFZXrRwmVym4=
+
+Name: res/drawable-xhdpi-v4/kost3.jpg
+SHA1-Digest: pDlPD50lKMHRMhniwh+W1dV4rCs=
+
+Name: res/layout/kost4.xml
+SHA1-Digest: MnME9iB8ildaYDZw8j5JnjHfy+c=
+
+Name: res/layout/main.xml
+SHA1-Digest: U5KOHe7IhhgYCxS0YhO0dbZ6QOI=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: BWD/B/BZ+GRBgxDA8z/1I0d/Yz4=
+
+Name: res/drawable-xhdpi-v4/kost1.jpg
+SHA1-Digest: JqSF6MHx4d9nwWpC/17ERdHNcyQ=
+
+Name: res/drawable-xhdpi-v4/logo.png
+SHA1-Digest: pwGEbht15jXbH1GBxUVGhJUxcYg=
+
+Name: res/drawable-xhdpi-v4/kost4.jpg
+SHA1-Digest: sGAb967av/er2MoIo7rAh+K5S04=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Ef0c9BNUoTf72PeSDDvo8cfQLE8=
+
+Name: res/layout/kost2.xml
+SHA1-Digest: 1S/FOvhbjvVZfswYGLq/IGGbJes=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA1-Digest: PFgGk9Rzsf7YsNg6z76r7cFmzik=
+
+Name: resources.arsc
+SHA1-Digest: wSEcXMnVC3L7ZrLhiv0yjWQe+T4=
+
+Name: res/layout/dashboard.xml
+SHA1-Digest: +ziDxapxc97BwOXCTpNCH3ZHZac=
+
+Name: classes.dex
+SHA1-Digest: te+as7/UT0Y9PjCLrVF9oT0K1BI=
+
+Name: res/layout/kost3.xml
+SHA1-Digest: I0HkChS5xw0RxjiVhTvZ9+6JL30=
+
